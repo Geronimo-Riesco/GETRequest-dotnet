@@ -21,3 +21,5 @@
 ### Ejercutar aplicación
 
 ###### `~$ dotnet run`
+
+![image](https://user-images.githubusercontent.com/83089714/185773445-f6605dcc-eb80-44b8-9fd7-1bf6d75aa934.png)
